@@ -1,9 +1,11 @@
 # Sakura Room
 ### Introduction
+
 1. Are you ready to begin?
 ```Let's Go```
 
 ### TIP-OFF
+
 1. What username does the attacker go by?
 <details>
 <summary>Answer</summary>
@@ -11,6 +13,7 @@ SakuraSnowAngelAiko - see the picture attached inspect element by viewing the so
 </details>
 
 ### RECONNAISSANCE
+
 1. What is the full email address used by the attacker?
 <details>
 <summary>Answer</summary>
@@ -24,6 +27,7 @@ SakuraSnowAngel83@protonmail.com - look for the users github using the username 
 </details>
 
 ### UNVEIL
+
 1. What cryptocurrency does the attacker own a cryptocurrency wallet for?
 <details>
 <summary>Answer</summary>
@@ -39,7 +43,6 @@ Ethereum - Assuming the github repo of sakura's ETH
 <summary>Answer</summary>
 Ethermine - go to ethersacan.io and paste the wallet id and check the date
 </details>
-
 4. What other cryptocurrency did the attacker exchange with using their cryptocurrency wallet?
 <details>
 <summary>Answer</summary>
@@ -47,6 +50,7 @@ Tether - As mentioned above check for the ETH wallet transaction
 </details>
 
 ### Taunt
+
 1. What is the attacker's current Twitter handle?
 <details>
 <summary>Answer</summary>
@@ -59,6 +63,7 @@ SakuraLoverAiko - google the attacker's github username, you should find twitter
 </details>
 
 ### HOMEBOUND
+
 1. What airport is closest to the location the attacker shared a photo from prior to getting on their flight?
 <details>
 <summary>Answer</summary>
