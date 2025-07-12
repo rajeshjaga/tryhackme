@@ -1,6 +1,7 @@
 # Sakura Room
 ### Introduction
 </hr>
+
 1. Are you ready to begin?
 ```Let's Go```
 
