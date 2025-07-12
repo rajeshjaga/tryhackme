@@ -1,24 +1,34 @@
 # Sakura Room
 ### Introduction
 1. Are you ready to begin?
->! Let's Go
+> Let's Go
 
 ### TIP-OFF
 1. What username does the attacker go by?
->! SakuraSnowAngelAiko, see the picture attached inspect element by viewing the source code and check for  "inkscape:export-filename".
+<details>
+<summary>Answer</summary>
+SakuraSnowAngelAiko, see the picture attached inspect element by viewing the source code and check for  "inkscape:export-filename".
+</details>
 
 ### RECONNAISSANCE
 1. What is the full email address used by the attacker?
->! SakuraSnowAngel83@protonmail.com, look for the users github using the username > copy the pgp key and paste it in base64 and search for an email-id
+<details>
+<summary>Answer</summary>
+SakuraSnowAngel83@protonmail.com, look for the users github using the username > copy the pgp key and paste it in base64 and search for an email-id
+</details>
+
 2. What is the attacker's full real name?
->! "Aiko Abe", find the username's twitter and check for tweets
+<details>
+<summary>Answer</summary>
+"Aiko Abe", find the username's twitter and check for tweets
+</details>
 
 ### UNVEIL
 1. What cryptocurrency does the attacker own a cryptocurrency wallet for?
 <details>
-<summary>Ethereum, see the users github repos </summary>
-Answer
+<summary>Answer</summary>
 </details>
 2. What is the attacker's cryptocurrency wallet address?
-> 
-
+<details>
+<summary>Answer</summary>
+</details>
