@@ -1,9 +1,11 @@
 # Sakura Room
 ### Introduction
-</hr>
-
+<br>
 1. Are you ready to begin?
-```Let's Go```
+
+```
+Let's Go
+```
 
 ### TIP-OFF
 </hr>
