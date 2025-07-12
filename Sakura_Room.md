@@ -1,11 +1,11 @@
 # Sakura Room
 ### Introduction
-
+</hr>
 1. Are you ready to begin?
 ```Let's Go```
 
 ### TIP-OFF
-
+</hr>
 1. What username does the attacker go by?
 <details>
 <summary>Answer</summary>
@@ -13,13 +13,12 @@ SakuraSnowAngelAiko - see the picture attached inspect element by viewing the so
 </details>
 
 ### RECONNAISSANCE
-
+</hr>
 1. What is the full email address used by the attacker?
 <details>
 <summary>Answer</summary>
 SakuraSnowAngel83@protonmail.com - look for the users github using the username > copy the pgp key and paste it in base64 and search for an email-id
 </details>
-
 2. What is the attacker's full real name?
 <details>
 <summary>Answer</summary>
@@ -27,7 +26,7 @@ SakuraSnowAngel83@protonmail.com - look for the users github using the username 
 </details>
 
 ### UNVEIL
-
+</hr>
 1. What cryptocurrency does the attacker own a cryptocurrency wallet for?
 <details>
 <summary>Answer</summary>
@@ -50,7 +49,7 @@ Tether - As mentioned above check for the ETH wallet transaction
 </details>
 
 ### Taunt
-
+</hr>
 1. What is the attacker's current Twitter handle?
 <details>
 <summary>Answer</summary>
@@ -63,25 +62,22 @@ SakuraLoverAiko - google the attacker's github username, you should find twitter
 </details>
 
 ### HOMEBOUND
-
+</hr>
 1. What airport is closest to the location the attacker shared a photo from prior to getting on their flight?
 <details>
 <summary>Answer</summary>
 DCA - check the image from twitter before the attacker left for home see the details in the image
 </details>
-
 2. What airport did the attacker have their last layover in?
 <details>
 <summary>Answer</summary>
 HND - reverse search the last layover of the atttacker which would result the airport tokyo Haneda
 </details>
-
 3. What lake can be seen in the map shared by the attacker as they were on their final flight home?
 <details>
 <summary>Answer</summary>
 Lake Inawashiro - try locating the place attack user posted in twitter and locate the name of the lake
 </details>
-
 4. What city does the attacker likely consider "home"?
 <details>
 <summary>Answer</summary>
