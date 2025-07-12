@@ -1,7 +1,6 @@
 # ohSINT in an tryhackme challenge to gather information asked below
 ### we need the picture for more info
 </hr>
-
 1. What is this user's avatar of?
 <details>
 <summary>Answer</summary>
